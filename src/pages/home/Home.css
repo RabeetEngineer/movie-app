@@ -1,0 +1,16 @@
+/* In your Home.css or another CSS file */
+.carousel {
+    margin: 20px auto; /* Adjust margin as needed */
+    max-width: 800px; /* Adjust the maximum width as needed */
+    height: 400px; /* Adjust the height as needed */
+    object-fit: cover; /* Maintain aspect ratio and fit entire image */
+  }
+  
+  /* Set the dimensions and styling for the images inside the Carousel */
+  .carousel img {
+    width: 100%;
+    height: 100%;
+   
+    
+  }
+  
